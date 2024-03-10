@@ -1,3 +1,4 @@
 192.168.56.10 => ubuntu-20
 192.168.56.11 => centos-9
 192.168.56.12 => centos-9-with-blog-provisioning
+192.168.56.13 => ubuntu-20-with-wordpress
